@@ -9,6 +9,12 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+/**
+ * @author Enrique Fernández Hurtado
+ * Tarea de la unidad 4 de Entornos de Desarrollo
+ * Fecha de realización 05/03/2024
+ */
+
 public class MainWindow extends JFrame {
 
     JPanel cards;

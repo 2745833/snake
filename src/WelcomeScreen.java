@@ -10,6 +10,12 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
+/**
+ * @author Enrique Fernández Hurtado
+ * Tarea de la unidad 4 de Entornos de Desarrollo
+ * Fecha de realización 05/03/2024
+ */
+
 public class WelcomeScreen extends JPanel {
 
     JLabel title;

@@ -1,6 +1,12 @@
 
 import java.awt.Color;
 
+/**
+ * @author Enrique Fernández Hurtado
+ * Tarea de la unidad 4 de Entornos de Desarrollo
+ * Fecha de realización 05/03/2024
+ */
+
 public class Player {
 
     private String name;

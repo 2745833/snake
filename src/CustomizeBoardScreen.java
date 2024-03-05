@@ -7,6 +7,12 @@ import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+
+/**
+ * @author Enrique Fernández Hurtado
+ * Tarea de la unidad 4 de Entornos de Desarrollo
+ * Fecha de realización 05/03/2024
+ */
 //needs massive improvements
 public class CustomizeBoardScreen extends JPanel {
 

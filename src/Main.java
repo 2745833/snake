@@ -1,6 +1,12 @@
 
 import javax.swing.SwingUtilities;
 
+/**
+ * @author Enrique Fernández Hurtado
+ * Tarea de la unidad 4 de Entornos de Desarrollo
+ * Fecha de realización 05/03/2024
+ */
+
 public class Main {
 
     /**

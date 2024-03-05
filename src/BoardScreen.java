@@ -11,11 +11,14 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
+/**
+ * @author Enrique Fernández Hurtado
+ * Tarea de la unidad 4 de Entornos de Desarrollo
+ * Fecha de realización 05/03/2024
+ */
 public class BoardScreen extends JPanel {
 
-    /**
-     *
-     */
+    
     int player = 0;
     BoardDrawing bd;
     JPanel stats;
